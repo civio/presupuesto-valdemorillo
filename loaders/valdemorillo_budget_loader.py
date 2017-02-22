@@ -43,7 +43,7 @@ class ValdemorilloBudgetLoader(SimpleBudgetLoader):
 
         # Expenses
         if is_expense:
-            # We got 3- or 4- digit functional codes as input, so add a trailing zero
+            # We got 2-, 3- or 4- digit functional codes as input, so add necessary trailing zeroes
             fc_code = line[1].strip()
             fc_code = fc_code.ljust(4, '0')
 
@@ -53,7 +53,7 @@ class ValdemorilloBudgetLoader(SimpleBudgetLoader):
                 fc_code = programme_mapping.get(fc_code, fc_code)
 
             # Parse amount
-            amount = line[10 if is_actual else 7].strip()
+            amount = line[9 if is_actual else 7].strip()
             amount = self._parse_amount(amount)
 
             return {
@@ -70,7 +70,7 @@ class ValdemorilloBudgetLoader(SimpleBudgetLoader):
         # Income
         else:
             # Parse amount
-            amount = line[7 if is_actual else 4].strip()
+            amount = line[8 if is_actual else 4].strip()
             amount = self._parse_amount(amount)
 
             return {
