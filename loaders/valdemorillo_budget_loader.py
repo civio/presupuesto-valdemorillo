@@ -43,8 +43,10 @@ class ValdemorilloBudgetLoader(SimpleBudgetLoader):
 
         # Expenses
         if is_expense:
-            # We got 2-, 3- or 4- digit functional codes as input, so add necessary trailing zeroes
+            # We got 2-, 3- or 4- digit functional codes as input, so add necessary zeroes
             fc_code = line[1].strip()
+            if len(fc_code) == 2:
+                fc_code = fc_code.rjust(3, '0')
             fc_code = fc_code.ljust(4, '0')
 
             # For years before 2015 we check whether we need to amend the programme code
