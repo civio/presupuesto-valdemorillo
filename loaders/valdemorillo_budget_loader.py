@@ -35,7 +35,10 @@ class ValdemorilloBudgetLoader(SimpleBudgetLoader):
         ic_code = '000'
 
         # Description
-        description = line[3].strip()
+        description = line[3].replace('..', '. ')
+        description = description.strip()
+        if not re.search('[A-Z]\.$',description):
+            description = description.rstrip('.')
 
         # Type of data
         is_expense = (filename.find('gastos.csv')!=-1)
