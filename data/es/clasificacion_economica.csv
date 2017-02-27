@@ -565,6 +565,6 @@ G,9,4,1,Devolución de fianzas
 #
 # Conceptos específicos de Valdemorillo
 #
-I,3,0,5,"305"
-G,4,8,9,"489"
-G,6,1,1,"611"
+I,3,0,5,Tasas cementerio municipal
+G,4,8,9,Subvención Hogar Tercera Edad
+G,6,1,1,Inversiones de reposición uso general
