@@ -565,6 +565,8 @@ G,9,4,1,Devolución de fianzas
 #
 # Conceptos específicos de Valdemorillo
 #
+I,2,8,2,"Impuesto sobre construcciones, instalaciones y obras"
 I,3,0,5,Tasas cementerio municipal
+I,4,7,1,Subvenciones empresas privadas
 G,4,8,9,Subvención Hogar Tercera Edad
 G,6,1,1,Inversiones de reposición uso general
