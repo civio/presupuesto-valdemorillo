@@ -1,0 +1,339 @@
+#,Funcional,Económica,Denominación,Vinc. Org.,Vinc. Fun.,Vinc. Eco.,Créditos Iniciales
+,11,31000,Deuda pública. Intereses,,0,3,15000
+,11,90100,Deuda pública. Amortizacion a largo plazo,,0,9,351781.43
+,132,12004,Seguridad. Sueldos del Grupo C2,,1,1,323094.84
+,132,12006,Seguridad. Trienios,,1,1,42719.25
+,132,12100,Seguridad. Complemento de destino,,1,1,194091.94
+,132,12101,Seguridad. Complemento específico,,1,1,851228.7
+,132,15000,Seguridad y Orden Público. Productividad,,1,1,19000
+,132,15100,Seguridad y Orden Público..Gratificaciones,,1,1,0
+,132,15200,Seguridad y Orden Público. Otras remuneraciones,,1,1,7438.28
+,132,15300,Seguridad y Orden Público. Complemento personal,,1,1,10000
+,132,16000,Seguridad. Cotizaciones a cargo del empleador,,1,1,406800
+,132,16103,Seguridad y Orden Público. Prestaciones I.T.,,1,1,0
+,132,20300,"Seguridad y Orden Público. Maquinaria, instalaciones y Utillajes",,1,2,1500
+,132,20400,Seguridad y Orden Público. Material de Transporte,,1,2,25000
+,132,20600,Seguridad y Orden Público. Equipos para procesos información,,1,2,1000
+,132,21200,Seguridad. Reparación edificios,,1,2,3000
+,132,21300,"Seguridad. Reparación Maquinaria, instalaciones y utillaje",,1,2,1000
+,132,21400,Seguridad. Reparación Vehiculos,,1,2,20000
+,132,21600,Seguridad. Reparaciones equipos procesos información,,1,2,500
+,132,22000,Seguridad. Material de oficina,,1,2,500
+,132,22100,Seguridad. Suministros energía eléctrica,,1,2,7000
+,132,22101,Seguridad. Suministros de agua,,1,2,500
+,132,22103,Seguridad. Suministro de combustibles y carburantes,,1,2,5000
+,132,22104,Seguridad. Vestuario del personal,,1,2,30000
+,132,22199,Seguridad. Otros Suministros,,1,2,3000
+,132,22400,Seguridad. Primas de seguros,,1,2,4000
+,132,22604,"Seguridad. Jurídicos, contenciosos",,1,2,1000
+,132,22606,Seguridad y Orden Público. Formación,,1,2,6000
+,132,22714,Seguridad y Orden Público. Prestacion Servicio Mantenimiento Maquinaria,,1,2,2000
+,132,22716,Seguridad y Orden Público. Prestacion Servicio Mantenimiento Aplicaciones Informaticas,,1,2,3000
+,132,23020,Seguridad. Dietas del personal,,1,2,3000
+,132,23120,Seguridad. Locomoción del personal,,1,2,3000
+,135,13000,Protección civil. Retribuciones básicas,,1,1,13972
+,135,16000,Protección civil. Seguridad Social,,1,1,4200
+,135,22103,Protección civil. Combustibles y carburantes,,1,2,1000
+,135,22104,Protección civil. Vestuario,,1,2,10000
+,135,22106,Protección civil. Productos farmacéuticos y material sanitario,,1,2,2000
+,135,22401,Protección civil. Priamas de Seguros,,1,2,4000
+,135,22606,Protección civil. Formación,,1,2,8000
+,135,22699,Protección civil. Otros gastos diversos,,1,2,5000
+,151,12001,Urbanismo. Sueldos del Grupo A2,,1,1,13035.6
+,151,12003,Urbanismo. Sueldos del Grupo C1,,1,1,9983.82
+,151,12006,Urbanismo. Trienios,,1,1,5497.9
+,151,12100,Urbanismo. Complemento de destino,,1,1,17081.82
+,151,12101,Urbanismo. Complemento específico,,1,1,40523.24
+,151,13000,Urbanismo. Retribuciones personal laboral,,1,1,86759.96
+,151,15000,Urbanismo. Productividad,,1,1,1000
+,151,15100,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..Gratificaciones",,1,1,0
+,151,15200,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. Otras remuneraciones",,1,1,1000
+,151,16000,Urbanismo. Cotizaciones a cargo del empleador,,1,1,26100
+,151,22799,Urbanismo. Otros trabajos realizados por empresas y profesionales,,1,2,50000
+,1531,61906,Acceso a los núcleos de población Espacios públicos en Urbanizaciones,,1,6,40000
+,1532,13000,Vías públicas. Retribuciones básicas,,1,1,406165.37
+,1532,15100,Vías públicas. Gratificaciones,,1,1,0
+,1532,15200,Vías públicas. Otras remuneraciones,,1,1,25000
+,1532,16000,Vías públicas. Seguridad Social,,1,1,130000
+,1532,16103,Vías públicas. Prestaciones I.T.,,1,1,0
+,1532,20200,Vías públicas Arrendamiento de edificios,,1,2,20000
+,1532,21200,Vías públicas. Edificios y Otras Construcciones,,1,2,25000
+,1532,21300,"Vías públicas. Maquinaria, instalaciones y utillaje",,1,2,6000
+,1532,22103,Vías públicas. Combustibles y carburantes,,1,2,7000
+,1532,22104,Vías públicas. Vestuario,,1,2,6000
+,1532,22108,Vías públicas. Productos de limpieza y aseo,,1,2,7000
+,1532,22199,Vías públicas. Otros suministros,,1,2,35000
+,1532,22401,Vías públicas. Prima de Seguros Vehículos,,1,2,15000
+,1532,22699,Vías públicas. Otros gastos diversos,,1,2,10000
+,1532,22799,Vías públicas. Otros trabajos realizados por empresa.,,1,2,30000
+,1532,61900,Vías públicas. Uso general,,1,6,30000
+,1532,63500,Vías públicas. Mobiliario y Señalizacion,,1,6,20000
+,161,21000,Saneamiento. Reparaciones y conservaciones,,1,2,6000
+,1621,12004,Recogida de residuos.Sueldos del Grupo C2,,1,1,8462.46
+,1621,12005,Recogida de residuos.Sueldos del Grupo E,,1,1,7755.44
+,1621,12006,Recogida de residuos.Trienios,,1,1,4433.2
+,1621,12100,Recogida de residuos.Complemento de destino,,1,1,8780.24
+,1621,12101,Recogida de residuos.Complemento específico,,1,1,12624.56
+,1621,13000,Recogida de residuos.Retribuciones básicas,,1,1,21925.82
+,1621,15000,Recogida de residuos. Productividad,,1,1,1000
+,1621,15100,Recogida de residuos..Gratificaciones,,1,1,0
+,1621,15200,Recogida de residuos. Otras remuneraciones,,1,1,8000
+,1621,16000,Recogida de residuos.Seguridad Social,,1,1,21100
+,1621,21300,"Recogida de residuos.Maquinaria, instalaciones y utillaje",,1,2,6000
+,1621,21400,Recogida de residuos.Material de Transporte,,1,2,10000
+,1621,22103,Recogida de residuos.Combustibles y carburantes,,1,2,50000
+,1621,22104,Recogida de residuos.Vestuario,,1,2,8000
+,1621,22401,Recogida de residuos.Vehículos,,1,2,35000
+,1621,22699,Recogida de residuos.Otros gastos diversos,,1,2,10000
+,1621,22799,Recogida de residuos.Otros trabajos realizados por empresas,,1,2,20000
+,1622,22502,Gestión de residuos sólidos urbanos. Tributos de las Entidades locales,,1,2,40000
+,1623,22699,Tratamiento de residuos. Residuos vegetales,,1,2,250000
+,163,22799,Limpieza viaria. Otros trabajos realizados por otras empresas y profesionales,,1,2,150000
+,164,21200,Cementerio. Conservación edificios y otras construcciones,,1,2,2000
+,164,22799,Cementerio. Otros trabajos realizados por empresas,,1,2,18000
+,164,62203,Cementerio y servicios funerarios. Fosas Cementerio,,1,6,20000
+,165,22100,Alumbrado público. Suministros de energía eléctrica Casco Urbano,,1,2,120000
+,165,22199,Alumbrado público. Otros suministros,,1,2,18000
+,165,22799,Alumbrado público. Otros trabajos realizados por empresas,,1,2,25000
+,169,12004,Bienestar comunitario. Sueldos del Grupo C2,,1,1,16924.92
+,169,12006,Bienestar comunitario. Trienios,,1,1,5958.24
+,169,12100,Bienestar comunitario. Complemento de destino,,1,1,9896.04
+,169,12101,Bienestar comunitario. Complemento específico,,1,1,16677.36
+,169,13000,Bienestar comunitario. Retribuciones personal laboral,,1,1,57860.13
+,169,15000,Bienestar comunitario. Productividad,,1,1,1000
+,169,15100,Bienestar Comunitario.Gratificaciones,,1,1,0
+,169,15200,Bienestar comunitario. Otras remuneraciones,,1,1,2000
+,169,16000,Bienestar comunitario. Cotizaciones a cargo del empleador l,,1,1,15000
+,169,20300,Bienestar comunitario. Arrendamiento maquinaria,,1,2,1000
+,169,22101,Bienestar Comunitario. Agua,,1,2,6000
+,169,22103,Bienestar comunitario. Combustibles y carburantes,,1,2,6000
+,169,22104,Bienestar comunitario. Vestuario,,1,2,6000
+,169,22699,Bienestar comunitario. Otros gastos diversos,,1,2,5000
+,169,22714,Bienestar comunitario. Prestacion Servicio Mantenimiento TDT,,1,2,35000
+,171,21200,Parques y jardines. Edificios y Otras Construcciones,,1,2,10000
+,171,22101,Parques y jardines. Suministros consumos de agua,,1,2,10000
+,171,22109,Parques y jardines. Suministros,,1,2,6000
+,171,22699,Parques y jardines. Otros gastos diversos,,1,2,4000
+,171,61900,Parques y jardines. Inversiones reposición,,1,6,10000
+,1721,13000,Promoción y Protección del medio ambiente Retribuciones básicas,,1,1,30944.78
+,1721,15100,Promoción y Protección del medio ambiente.Gratificaciones,,1,1,0
+,1721,15300,Promoción y Protección del medio ambiente.Complemento personal,,1,1,0
+,1721,16000,Promoción y Protección del medio ambiente. Seguridad Social,,1,1,8400
+,1721,21000,Promoción y mejora del medio ambiente. Conservaciones,,1,2,10000
+,1721,22199,Promoción y mejora del medio ambiente. Otros suministros,,1,2,3000
+,1721,22610,Protección y mejora del medio ambiente Actividades programadas,,1,2,3000
+,1721,22699,Promoción y mejora del medio ambiente. Otros gastos diversos,,1,2,4000
+,1721,22799,Promoción y Protección del medio ambiente. Otros trabajos realizados por otras empresas y profesionales,,1,2,25000
+,1721,62203,Promoción y Protección del medio ambiente Otras construcciones,,1,6,70000
+,2311,21300,"Hogar Tercera Edad. Maquinaria, instalaciones y utillaje",,2,2,1000
+,2311,22100,Hogar Tercera Edad. Energía eléctrica,,2,2,3000
+,2311,22101,Hogar Tercera Edad. Agua,,2,2,500
+,2311,22103,Hogar Tercera Edad. Combustibles y carburantes,,2,2,2000
+,2311,22617,Hogar Tercera Edad. Festejos,,2,2,2500
+,2311,22714,Hogar Tercera Edad. Prestacion Servicio Mantenimiento Maquinaria,,2,2,3000
+,2311,48900,Hogar Tercera Edad. Subvencion Hogar Tercera Edad,,2,4,12000
+,2312,22611,Servicios Sociales. Convenios servicios sociales,,2,2,40000
+,2312,22699,Servicios Sociales Otros gastos diversos,,2,2,6000
+,2312,22799,Servicios Sociales. Otros trabajos realizados por otras empresas y profesionales,,2,2,12000
+,2312,46300,Servicios Sociales. Mancomunidad Sierra Oeste,,2,4,53000
+,2312,46301,Servicios Sociales. Teleasistencia,,2,4,5000
+,2312,48000,Servicios Sociales. Atenciones beneficas y asistenciales,,2,4,6000
+,241,13100,Fomento del empleo. Personal Subvencionado,,2,1,25000
+,241,16000,Fomento del empleo. Cotizaciones Seguridad Social,,2,1,7500
+,241,22199,Fomento del empleo. Otros suministros,,2,2,15000
+,312,13000,"Hospitales, servicios asistenciales y centros de salud. Retribuciones básicas",,3,1,13386.08
+,312,16000,Centros sanitarios. Cotizaciones a cargo del empleador,,3,1,4100
+,321,13000,Educación infantil. Retribuciones personal laboral.,,3,1,77540.51
+,321,16000,Educación infantil. Cotizaciones a cargo del empleador,,3,1,23300
+,321,21200,Educación infantil. Reparaciones edificios y otras construcciones,,3,2,5000
+,321,21300,"Educación infantil. Reparación maquinaria, instalaciones y utillaje",,3,2,6000
+,321,22100,Educación infantil. Suministros de energía eléctrica,,3,2,12000
+,321,22101,Educación infantil. Suministros consumos de agua,,3,2,2000
+,321,22102,Educación infantil. Suministros consumos de gas,,3,2,8000
+,321,22103,Educacion infantil. Suministros de combustibles,,3,2,12000
+,321,22104,Educación infantil. Vestuario,,3,2,3000
+,321,22108,Educación infantil. Productos de limpieza y aseo,,3,2,1000
+,321,22615,Educación infantil. Actividades Extraescolares,,3,2,15000
+,321,47000,Educación infantil. Convenio escuelas infantiles.,,3,4,130000
+,321,63205,Educación Infantil. Obras mejoras Educación,,3,6,20000
+,323,21200,Funcionamiento de centros docentes. Edificios y Otras Construcciones,,3,2,5000
+,323,21300,"Funcionamiento de centros docentes. Maquinaria, instalaciones y utillaje",,3,2,1000
+,323,22100,Funcionamiento de centros docentes. Energía eléctrica,,3,2,16000
+,323,22101,Funcionamiento de centros docentes. Agua,,3,2,6000
+,323,22102,Funcionamiento de centros docentes. Gas,,3,2,20000
+,323,22103,Funcionamiento de centros docentes. Combustibles y carburantes,,3,2,6000
+,323,22104,Funcionamiento de centros docentes. Vestuario,,3,2,1000
+,323,22108,Funcionamiento de centros docentes. Productos de limpieza y aseo,,3,2,1000
+,323,22615,Funcionamiento de centros docentes. Actividades Extraescolares,,3,2,7000
+,323,22699,Funcionamiento de centros docentes. Otros gastos diversos,,3,2,5000
+,326,13000,Servicios complementarios de educación. Retribuciones básicas,,3,1,52830.44
+,326,16000,Servicios complementarios de educación. Seguridad Social,,3,1,15900
+,326,22000,Servicios complementarios de educación. Ordinario no inventariable,,3,2,500
+,326,22699,Servicios complementarios de educación. Otros gastos diversos,,3,2,2000
+,330,13000,Cultura. Retribuciones personal laboral.,,3,1,77748.71
+,330,16000,Cultura. Cotizaciones a cargo del empleador,,3,1,24300
+,330,20600,Cultura. Equipos para procesos información,,3,2,5000
+,330,21200,Cultura. Reparaciones edificios y otras construcciones,,3,2,6000
+,330,21300,"Cultura. Reparaciones maquinaria, instalaciones y utillaje",,3,2,3000
+,330,21500,Cultura. Reparación Mobiliario,,3,2,500
+,330,21600,Cultura. Material Informatico,,3,2,500
+,330,22000,Cultura. Material de oficina,,3,2,1000
+,330,22100,Cultura. Suministros energía eléctrica,,3,2,33000
+,330,22101,Cultura. Suministros consumos de agua.,,3,2,1000
+,330,22102,Cultura. Gas,,3,2,2000
+,330,22104,Cultura. Vestuario,,3,2,500
+,330,22108,Cultura. Productos de limpieza y aseo,,3,2,1000
+,330,22400,Cultura. Primas de seguros,,3,2,3000
+,330,22601,Cultura. Atenciones protocolarias y representativas,,3,2,6000
+,330,22602,Cultura. Publicidad y propaganda,,3,2,3000
+,330,22699,Cultura. Otros gastos diversos,,3,2,5000
+,330,22714,Cultura. Prestacion Servicio Mantenimiento Maquinaria,,3,2,6000
+,330,22799,Cultura. Otros trabajos realizados por otras empresas y profesionales,,3,2,10000
+,330,23120,Administración General de Cultura..Del personal no directivo,,3,2,0
+,330,63203,Administración General de Cultura. Otras construcciones,,3,6,40000
+,3321,13000,Bibliotecas públicas. Retribuciones básicas,,3,1,112720.91
+,3321,16000,Bibliotecas públicas. Seguridad Social,,3,1,33800
+,3321,16103,Bibliotecas públicas. Prestaciones I.T.,,3,1,0
+,3321,20600,Bibliotecas públicas Equipos para procesos información,,3,2,500
+,3321,21200,Bibliotecas públicas. Edificios y Otras Construcciones,,3,2,4000
+,3321,21500,Bibliotecas públicas. Mobiliario,,3,2,500
+,3321,22000,Bibliotecas públicas. Ordinario no inventariable,,3,2,1000
+,3321,22001,"Bibliotecas públicas. Prensa, revistas, libros y otras publicaciones",,3,2,3000
+,3321,22100,Bibliotecas públicas. Energía eléctrica,,3,2,35000
+,3321,22101,Bibliotecas públicas. Agua,,3,2,2000
+,3321,22102,Bibliotecas públicas. Gas,,3,2,20000
+,3321,22104,Bibliotecas públicas. Vestuario,,3,2,500
+,3321,22108,Bibliotecas públicas. Productos de limpieza y aseo,,3,2,1000
+,3321,22602,Bibliotecas públicas. Publicidad y propaganda,,3,2,2000
+,3321,22610,Bibliotecas públicas. Actividades programadas,,3,2,6000
+,3321,22714,Bibliotecas públicas. Prestacion Servicio Mantenimiento Maquinaria,,3,2,6000
+,3321,22716,Bibliotecas públicas. Prestacion Servicio Mantenimiento Aplicaciones Informatica,,3,2,2000
+,333,22100,Museos. Energía eléctrica,,3,2,2000
+,333,22602,Museos. Publicidad y propaganda,,3,2,3000
+,333,22610,Museos. Actividades programadas,,3,2,3000
+,333,22699,Museos. Otros gastos diversos. Museos,,3,2,3000
+,334,22610,Promoción Cultura. Actividades programadas,,3,2,10000
+,334,22618,Promoción Cultural. Certamen de Teatro,,3,2,15000
+,337,13000,Juventud. Retribuciones personal laboral.,,3,1,111918.76
+,337,15100,Instalaciones de ocupación del tiempo libre. Gratificaciones,,3,1,0
+,337,15200,Juventud. Otras remuneraciones,,3,1,3000
+,337,15300,Instalaciones de ocupación del tiempo libre. Complemento personal,,3,1,0
+,337,16000,Juventud. Cotizaciones a cargo del empleador,,3,1,34400
+,337,20600,Juventud. Equipos para procesos información,,3,2,3000
+,337,21200,Juventud. Edificios y Otras Construcciones,,3,2,1000
+,337,21300,"Juventud. Maquinaria, instalaciones y utillaje",,3,2,1000
+,337,22000,Juventud. Ordinario no inventariable,,3,2,1000
+,337,22001,"Juventud. Prensa, revistas, libros y otras publicaciones",,3,2,1000
+,337,22100,Juventud. Suministros de energía eléctrica,,3,2,3000
+,337,22101,Juventud. Suministros consumos de agua,,3,2,600
+,337,22103,Juventud. Suministros de combustibles y carburantes,,3,2,1500
+,337,22400,Juventud. Primas de seguros,,3,2,3000
+,337,22610,Juventud. Actividades programadas,,3,2,15000
+,337,22714,Juventud. Prestacion Servicio Mantenimiento Maquinaria,,3,2,1000
+,337,22799,Juventud. Otros trabajos realizados por otras empresas y profesionales,,3,2,3000
+,338,22610,Fiestas populares. Fiestas populares,,3,2,118500
+,338,22617,Fiestas populares y festejos. Festejos taurinos,,3,2,82000
+,338,47900,Fiestas populares. Subvencion Festejos,,3,4,78131.57
+,340,13000,Deportes. Retribuciones personal laboral.,,3,1,51061.38
+,340,15300,Administración General de Deportes. Complemento personal,,3,1,0
+,340,16000,Deportes. Cotizaciones a cargo del empleador,,3,1,15400
+,340,21200,Deportes. Reparaciones Edificios y Otras Construcciones,,3,2,6000
+,340,22799,Deportes. Otros trabajos realizados por otras empresas y profesionales,,3,2,4800
+,342,21200,Instalaciones deportivas. Edificios y Otras Construcciones,,3,2,3000
+,342,21300,"Instalaciones deportivas. Maquinaria, instalaciones y utillaje",,3,2,6000
+,342,22100,Instalaciones deportivas. Suministros de energía eléctrica,,3,2,25000
+,342,22101,Instalaciones deportivas. Suministros consumos agua,,3,2,30000
+,342,22102,Instalaciones deportivas. Gas,,3,2,55000
+,342,22714,Instalaciones deportivas. Prestacion Servicio Mantenimiento Maquinaria,,3,2,30000
+,350,21000,Entidades Urbanisticas Conservaciones,,3,2,25000
+,350,21300,Entidades Urbanisticas. Reparaciones instalaciones,,3,2,10000
+,350,22100,Entidades Urbanísticas. Energía eléctrica,,3,2,500000
+,350,22112,Entidades Urbanisticas. Suministros de material electrico,,3,2,20000
+,350,22712,Entidades Urbanísticas. Transporte Taxis,,3,2,80000
+,350,22713,Entidades Urbanisticas. Transporte Escolar,,3,2,60000
+,420,63301,Administración General de Industria y energía. Instalaciones,,4,6,25000
+,4311,22602,Comercio. Publicidad y propaganda,,4,2,3000
+,4311,22610,Comercio.  Actividades programadas,,4,2,3000
+,432,22602,Turismo. Publicidad y propaganda,,4,2,10000
+,432,22610,Turismo. Actividades programadas,,4,2,8000
+,432,22699,Turismo. Otros gastos diversos,,4,2,2000
+,432,22799,Turísmo. Otros trabajos realizados por otras empresas y profesionales,,4,2,12000
+,912,10000,Corporación Municipal. Retribuciones básicas,,9,1,236000
+,912,16000,Corporación Municipal. Seguridad Social,,9,1,70000
+,912,23000,Corporación Municipal. Dietas Miembros Corporación,,9,2,25000
+,912,23100,Corporación Municipal De los miembros de los órganos de gobierno,,9,2,1000
+,920,12000,Administración general. Sueldos del Grupo A1,,9,1,14824.22
+,920,12003,Administración general. Sueldos del Grupo C1,,9,1,29951.46
+,920,12005,Administración general. Sueldos del Grupo E,,9,1,15510.88
+,920,12006,Administración general. Trienios,,9,1,22051.4
+,920,12100,Administración general. Complemento de destino,,9,1,43652.14
+,920,12101,Administración general. Complemento específico,,9,1,77612.5
+,920,13000,Administración general. Retribuciones personal laboral.,,9,1,200054.41
+,920,13100,Administración General..Personal Subvencionado,,9,1,0
+,920,13101,Administración general. Personal eventual y Suplencias,,9,1,10000
+,920,15000,Administración general. Productividad,,9,1,2000
+,920,15100,Administración General..Gratificaciones,,9,1,0
+,920,15200,Administración General. Otras remuneraciones,,9,1,15320.5
+,920,15300,Administración General. Complemento personal,,9,1,0
+,920,16000,Administración general. Cotizaciones a cargo del empleador,,9,1,125000
+,920,16103,Administración General. Prestaciones I.T.,,9,1,0
+,920,20600,Administración general. Arrendamiento equipos para procesos información,,9,2,15000
+,920,21200,Administración General. Edificios y Otras Construcciones,,9,2,6000
+,920,21500,Administración general. Reparación mobiliario,,9,2,2000
+,920,21600,Administración general. Reparación material Informatico,,9,2,2000
+,920,22000,Administración general. Material de oficina,,9,2,15000
+,920,22001,"Administración general. Prensa, revistas, libros y otras publicaciones",,9,2,10000
+,920,22100,Administración general. Suministros de energía eléctrica,,9,2,25000
+,920,22101,Administración general. Suministros consumos agua.,,9,2,2000
+,920,22102,Administración General. Gas,,9,2,6000
+,920,22103,Administración general. Combustibles y carburantes,,9,2,5000
+,920,22104,Administración general. Vestuario,,9,2,1000
+,920,22108,Administración General. Productos de limpieza y aseo,,9,2,1000
+,920,22200,Administración general. Servicios de Telecomunicaciones,,9,2,50000
+,920,22201,Administración general. Postales,,9,2,20000
+,920,22400,Administración general. Primas de seguros,,9,2,30000
+,920,22601,Administración general. Atenciones protocolarias a terceros,,9,2,3000
+,920,22602,Administración general. Publicidad y propaganda,,9,2,8000
+,920,22604,"Administración general. Jurídicos, contenciosos",,9,2,30000
+,920,22606,Administración General. Formación,,9,2,3000
+,920,22613,Administración General. Cuotas Asociaciones,,9,2,2000
+,920,22699,Administración general. Otros gastos diversos,,9,2,1179.08
+,920,22700,Administración General. Limpieza y Aseo,,9,2,168000
+,920,22701,Administración general. Seguridad,,9,2,10000
+,920,22710,Administración General. Prevención riesgos laborales,,9,2,15000
+,920,22714,Administración general. Prestacion Servicio Mantenimiento Maquinaria,,9,2,7000
+,920,22716,Administración general. Mantenimiento Aplicaciones Informaticas,,9,2,8000
+,920,22799,Administración general. Otros trabajos realizados por empresas y profesionales,,9,2,30000
+,920,62600,Administración General. Equipos Informaticos,,9,6,12000
+,920,62601,Administración General. Informática y digitalización,,9,6,20000
+,920,65000,Administración General. Gastos en inveriones gestionadas para otros entes,,9,6,54047.43
+,924,13000,Prensa. Retribuciones personal laboral.,,9,1,30357.18
+,924,16000,Prensa. Cotizaciones a cargo del empleador,,9,1,9100
+,924,22699,Prensa. Otros gastos diversos,,9,2,2000
+,9242,22001,"Participacion ciudadana. Prensa, revistas, libros y otras publicaciones",,9,2,1000
+,9242,22699,Participacion ciudadana. Otros gastos diversos,,9,2,1000
+,9242,60904,Participacion ciudadana. Presupuesto Participativo,,9,6,105000
+,931,12000,Política económica y fiscal. Sueldos del Grupo A1,,9,1,29648.44
+,931,12003,Política económica y fiscal. Sueldos del Grupo C1,,9,1,9983.82
+,931,12006,Política económica y fiscal. Trienios,,9,1,5822.96
+,931,12100,Política económica y fiscal. Complemento de destino,,9,1,34605.48
+,931,12101,Política económica y fiscal. Complemento específico,,9,1,69685.28
+,931,13000,Política económica y fiscal. Retribuciones personal laboral.,,9,1,191312.49
+,931,15000,Política económica y fiscal. Productividad,,9,1,2000
+,931,15100,Política económica y fiscal..Gratificaciones,,9,1,0
+,931,15200,Política económica y fiscal. Otras remuneraciones,,9,1,5000
+,931,15300,Política económica y fiscal. Complemento personal,,9,1,0
+,931,16000,Política económica y fiscal. Cotizaciones a cargo del empleador,,9,1,90700
+,932,12003,Política económica y fiscal. Sueldos del Grupo C1,,9,1,39935.28
+,932,12006,Política económica y fiscal. Trienios,,9,1,12047.52
+,932,12100,Política económica y fiscal. Complemento de destino,,9,1,28836.64
+,932,12101,Política económica y fiscal. Complemento específico,,9,1,62538.76
+,932,15000,Gestión del sistema tributario. Productividad,,9,1,3300
+,932,15100,Gestión sistema tributario. Complementos habilitación,,9,1,6000
+,932,15200,Gestión del sistema tributario. Otras remuneraciones,,9,1,4934.66
+,932,16000,Gestión sistema tributario. Cotizaciones a cargo del empleador,,9,1,43000
+,932,16103,Gestión del sistema tributario. Prestaciones I.T.,,9,1,0
+,932,22708,Gestión del sistema tributario. Servicios de recaudación a favor de la entidad,,9,2,100000
+,932,35900,Gestión sistema tributario. Otros Gastos Financieros,,9,3,18000
+#,,,,,,,
+#,,,T O T A L E S,,,,9674168.23
