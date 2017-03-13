@@ -93,16 +93,16 @@ FACEBOOK_ID             = ''
 ANALYTICS_ID            = ''
 
 # Setup Data Source Budget link
-DATA_SOURCE_BUDGET      = ''
+DATA_SOURCE_BUDGET      = 'http://www.aytovaldemorillo.net/concejalias/hacienda-turismo-y-desarrollo-local/presupuestos/'
 
 # Setup Data Source Population link
-DATA_SOURCE_POPULATION  = ''
+DATA_SOURCE_POPULATION  = 'http://www.ine.es/jaxiT3/Tabla.htm?t=2881&L=0'
 
 # Setup Data Source Inflation link
-DATA_SOURCE_INFLATION   = ''
+DATA_SOURCE_INFLATION   = 'http://www.ine.es/jaxiT3/Tabla.htm?t=10019&L=0'
 
 # Setup Main Entity Web Url
-MAIN_ENTITY_WEB_URL     = ''
+MAIN_ENTITY_WEB_URL     = 'http://www.aytovaldemorillo.net/'
 
 # Setup Main Entity Legal Url (if empty we hide the link)
 MAIN_ENTITY_LEGAL_URL   = ''
