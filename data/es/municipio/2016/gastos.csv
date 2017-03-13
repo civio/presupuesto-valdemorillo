@@ -1,0 +1,332 @@
+#Orgánica,Funcional,Económica,Denominación,Vinc. Org.,Vinc. Fun.,Vinc. Eco.,Créditos Iniciales,Créditos Generados por Ingresos,Obligaciones Reconocidas
+10,132,12004,Seguridad y Orden Público. Sueldos del Grupo C2,10,1,1,340015.95,0,315946.82
+10,132,12006,Seguridad y Orden Público. Trienios,10,1,1,39000,0,41339.2
+10,132,12100,Seguridad y Orden Público. Complemento de destino,10,1,1,203134.98,0,169325.98
+10,132,12101,Seguridad y Orden Público. Complemento específico,10,1,1,901415.61,0,747415.88
+10,132,15100,Seguridad y Orden Público..Gratificaciones,10,1,1,0,0,9851.49
+10,132,15200,Seguridad y Orden Público. Otras remuneraciones,10,1,1,8048.56,0,7492.34
+10,132,16000,Seguridad y Orden Público. Seguridad Social,10,1,1,552000,0,305546.5
+10,132,23020,Seguridad y Orden Público.Dietas del personal no directivo,10,1,2,0,0,98
+10,132,23120,Seguridad y Orden Público. Locomoción del personal no directivo,10,1,2,0,0,540
+10,135,16000,Protección civil. Seguridad Social,10,1,1,7500,0,0
+10,135,22699,Protección civil. Otros gastos diversos,10,1,2,5000,0,0
+10,151,12001,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. Sueldos del Grupo A2",10,1,1,13035.59,0,8540.53
+10,151,12003,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. Sueldos del Grupo C1",10,1,1,9983.69,0,10293.27
+10,151,12006,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. Trienios",10,1,1,6000,0,5620.07
+10,151,12100,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. Complemento de destino",10,1,1,17081.69,0,17680.55
+10,151,12101,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. Complemento específico",10,1,1,35464.96,0,41555.09
+10,151,13000,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. Retribuciones básicas",10,1,1,77331.65,0,81694.74
+10,151,15100,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística..Gratificaciones",10,1,1,0,0,439.38
+10,151,16000,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. Seguridad Social",10,1,1,62000,0,46644.55
+10,151,23120,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística.",10,1,2,0,0,11.62
+10,1532,13000,Vías públicas Retribuciones básicas,10,1,1,90528.67,0,107114.72
+10,1532,15100,Vías públicas Gratificaciones,10,1,1,10000,0,901.26
+10,1532,16000,Vías públicas Seguridad Social,10,1,1,138000,0,34846.49
+10,1621,12004,Recogida de residuos. Sueldos del Grupo C2,10,1,1,8462.37,0,8757.74
+10,1621,12005,Recogida de residuos. Sueldos del Grupo E,10,1,1,7755.37,0,6920.26
+10,1621,12006,Recogida de residuos. Trienios,10,1,1,4500,0,3869.04
+10,1621,12100,Recogida de residuos. Complemento de destino,10,1,1,8780.23,0,8541.58
+10,1621,12101,Recogida de residuos. Complemento específico,10,1,1,11199.16,0,13923.45
+10,1621,13000,Recogida de residuos. Retribuciones básicas,10,1,1,163643.67,0,181882.75
+10,1621,15100,Recogida de residuos..Gratificaciones,10,1,1,0,0,3722.92
+10,1621,16000,Recogida de residuos. Seguridad Social,10,1,1,77000,0,71374.49
+10,1621,23120,Recogida de residuos.,10,1,2,0,0,98
+10,169,12004,Bienestar Comunitario Sueldos del Grupo C2,10,1,1,16924.73,0,17515.48
+10,169,12006,Bienestar Comunitario Trienios,10,1,1,6000,0,5999.1
+10,169,12100,Bienestar Comunitario Complemento de destino,10,1,1,9896.02,0,10244.06
+10,169,12101,Bienestar Comunitario Complemento específico,10,1,1,16677.28,0,17263.9
+10,169,13000,Bienestar Comunitario Retribuciones básicas,10,1,1,239121.54,0,240442.13
+10,169,15100,Bienestar Comunitario.Gratificaciones,10,1,1,0,0,6998.94
+10,169,16000,Bienestar Comunitario Seguridad Social,10,1,1,40000,0,92053.22
+10,312,13000,"Hospitales, servicios asistenciales y centros de salud. Retribuciones básicas",10,3,1,15554,0,16101
+10,312,16000,"Hospitales, servicios asistenciales y centros de salud. Seguridad Social",10,3,1,6000,0,6948.83
+10,321,13000,Creación de Centros docentes de enseñanza preescolar y primaria. Retribuciones básicas,10,3,1,76545.61,0,79261.97
+10,321,16000,Creación de Centros docentes de enseñanza preescolar y primaria. Seguridad Social,10,3,1,30000,0,24291.61
+10,324,16000,Funcionamiento de centros docentes de enseñanza secundaria. Seguridad Social,10,3,1,22000,0,2646.99
+10,326,13000,Servicios complementarios de educación. Retribuciones básicas,10,3,1,58102.22,0,53551.74
+10,326,16000,Servicios complementarios de educación.Seguridad Social,10,3,1,0,0,14039.13
+10,330,13000,Administración General de Cultura. Retribuciones básicas,10,3,1,50240.87,0,53095.61
+10,330,16000,Administración General de Cultura. Seguridad Social,10,3,1,28000,0,16415.56
+10,3321,13000,Bibliotecas públicas Retribuciones básicas,10,3,1,106794.1,0,115497.24
+10,3321,16000,Bibliotecas públicas Seguridad Social,10,3,1,40000,0,32657.09
+10,334,13000,Promoción  cultural. Retribuciones básicas,10,3,1,24311.32,0,27388.4
+10,334,16000,Promoción  cultural..Seguridad Social,10,3,1,0,0,8490.12
+10,337,13000,Instalaciones de ocupación del tiempo libre. Retribuciones básicas,10,3,1,98813.42,0,112936.69
+10,337,16000,Instalaciones de ocupación del tiempo libre. Seguridad Social,10,3,1,32000,0,29412.21
+10,340,13000,Administración General de Deportes. Retribuciones básicas,10,3,1,29193.68,0,30702.63
+10,340,16000,Administración General de Deportes. Seguridad Social,10,3,1,17000,0,8840.45
+10,430,13000,"Administración general de comercio, turismo y  pequeñas y medianas empresas. Retribuciones básicas",10,4,1,29698.57,0,0
+10,430,16000,"Administración general de comercio, turismo y  pequeñas y medianas empresas. Seguridad Social",10,4,1,11000,0,0
+10,912,10000,Corporación Municipal. Retribuciones básicas,10,9,1,236000,0,235999.4
+10,912,16000,Corporación Municipal. Seguridad Social,10,9,1,75000,0,74734.92
+10,912,23000,Corporación Municipal. De los miembros de los órganos de gobierno,10,9,2,45000,0,22200
+10,912,23100,Corporación Municipal. De los miembros de los órganos de gobierno,10,9,2,1500,0,346.46
+10,920,11000,Administración General. Retribuciones básicas,10,9,1,10000,0,0
+10,920,11002,Administración General. Otras remuneraciones,10,9,1,130371.68,0,0
+10,920,12000,Administración General. Sueldos del Grupo A1,10,9,1,14824.09,0,15504.84
+10,920,12003,Administración General. Sueldos del Grupo C1,10,9,1,29951.07,0,30879.81
+10,920,12005,Administración General. Sueldos del Grupo E,10,9,1,15510.73,0,16056.13
+10,920,12006,Administración General. Trienios,10,9,1,22000,0,22294.21
+10,920,12100,Administración General. Complemento de destino,10,9,1,43652.16,0,46095.42
+10,920,12101,Administración General. Complemento específico,10,9,1,73019.95,0,77110.26
+10,920,13000,Administración General. Retribuciones básicas,10,9,1,162248.1,0,160804.49
+10,920,15200,Administración General. Otras remuneraciones,10,9,1,115000,0,0
+10,920,16000,Administración General. Seguridad Social,10,9,1,150000,0,98543.76
+10,920,21500,Administración General. Mobiliario,10,9,2,1000,0,3418.66
+10,920,22000,Administración General. Ordinario no inventariable,10,9,2,30000,0,9577.84
+10,920,22001,"Administración General. Prensa, revistas, libros y otras publicaciones",10,9,2,6000,0,12031.13
+10,920,22201,Administración General. Postales,10,9,2,20000,0,25710.07
+10,920,22400,Administración General. Primas de Seguros,10,9,2,30000,0,24831.4
+10,920,22601,Administración General. Atenciones protocolarias y representativas,10,9,2,6000,0,5547.91
+10,920,22602,Administración General..Publicidad y propaganda,10,9,2,0,0,18309.54
+10,920,22604,"Administración General. Jurídicos, contenciosos",10,9,2,50000,0,37048.59
+10,920,22610,Administración General..Actividades programadas,10,9,2,0,0,6077.4
+10,920,22699,Administración General. Otros gastos diversos,10,9,2,4239.47,0,15313.58
+10,920,22799,Administración General.Otros trabajos realizados por otras empresas y profesionales,10,9,2,0,0,14373.26
+10,920,23020,Administración General.Del personal no directivo,10,9,2,0,0,7.9
+10,924,16000,Participación ciudadana. Seguridad Social,10,9,1,20000,0,6317.02
+10,9241,13000,Prensa. Retribuciones básicas,10,9,1,25488.91,0,26364.15
+10,9241,16000,Prensa.Seguridad Social,10,9,1,0,0,8285.4
+10,925,13000,Atención a los ciudadanos. Retribuciones básicas,10,9,1,28712.26,0,19816.34
+10,931,12000,Política económica y fiscal. Sueldos del Grupo A1,10,9,1,29648.19,0,16065.16
+10,931,12003,Política económica y fiscal. Sueldos del Grupo C1,10,9,1,9983.69,0,10293.27
+10,931,12006,Política económica y fiscal. Trienios,10,9,1,4000,0,6123.52
+10,931,12100,Política económica y fiscal. Complemento de destino,10,9,1,34605.39,0,22555.14
+10,931,12101,Política económica y fiscal. Complemento específico,10,9,1,68198.49,0,42854.76
+10,931,13000,Política económica y fiscal. Retribuciones básicas,10,9,1,92088.81,0,85684.74
+10,931,15100,Política económica y fiscal. Gratificaciones,10,9,1,21000,0,270.24
+10,931,16000,Política económica y fiscal. Seguridad Social,10,9,1,92000,0,42952.38
+10,932,12003,Gestión del sistema tributario. Sueldos del Grupo C1,10,9,1,39934.75,0,41173.08
+10,932,12006,Gestión del sistema tributario. Trienios,10,9,1,12000,0,12042.21
+10,932,12100,Gestión del sistema tributario. Complemento de destino,10,9,1,28836.55,0,35914.55
+10,932,12101,Gestión del sistema tributario. Complemento específico,10,9,1,48033.96,0,62984.06
+10,932,15100,Gestión del sistema tributario..Gratificaciones,10,9,1,0,0,1261.81
+10,932,16000,Gestión del sistema tributario. Seguridad Social,10,9,1,53000,0,34757.76
+10,932,23020,Gestión del sistema tributario..Del personal no directivo,10,9,2,0,0,56.42
+10,932,23120,Gestión del sistema tributario.Locomoción del personal no directivo,10,9,2,0,0,39.24
+20,11,90100,Deuda Pública. Amortizacion Deuda Pública a largo plazo,20,0,9,587201.34,0,541975.14
+20,920,20600,Administración General. Equipos para procesos información,20,9,2,15000,0,9332.4
+20,920,21600,Administración General. Material Informatico,20,9,2,1000,0,704.39
+20,920,22103,Administración General..Combustibles y carburantes,20,9,2,0,0,6809.33
+20,920,22200,Administración General. Servicios de Telecomunicaciones,20,9,2,50000,0,41017.69
+20,920,22716,Administración General. Prestacion Servicio Mantenimiento Aplicaciones Informaticas,20,9,2,5000,0,4516.4
+20,920,22799,Administración General. Otros trabajos realizados por otras empresas y profesionales,20,9,2,30000,0,15378.88
+20,920,62304,Administración General. Adquisición equipos técnicos,20,9,6,20000,0,31558.07
+20,920,62601,Administración General. Administración eletronica,20,9,6,80000,0,37215.53
+20,931,22706,Política económica y fiscal. Estudios y trabajos técnicos,20,9,2,25000,0,25401.53
+20,931,22708,Política económica y fiscal.,20,9,2,0,0,32836.22
+20,932,22799,Gestión del sistema tributario. Otros trabajos realizados por otras empresas y profesionales,20,9,2,15000,0,1331
+20,932,641,Gestión del sistema tributario..Gastos en aplicaciones informáticas,20,9,6,0,0,21780
+20,934,35300,Gestión de la deuda y de la tesorería. Intereses de deuda con entidades de crédito.,20,9,3,60000,0,27069.53
+20,934,35900,Gestión de la deuda y de la tesorería. Otros Gastos Financieros,20,9,3,25000,0,15600.2
+30,151,22706,"Urbanismo: planeamiento, gestión, ejecución y disciplina urbanística. Estudios y trabajos técnicos",30,1,2,18000,0,54024.08
+30,1532,21400,Vías públicas. Reparacion Material Transporte,30,1,2,0,0,625.15
+30,1532,22108,Vías públicas. Productos de limpieza y aseo,30,1,2,20000,0,7335
+30,1532,22699,Vías públicas.Otros gastos diversos,30,1,2,0,0,6557.4
+30,1532,22799,Vías públicas.Otros trabajos realizados por otras empresas y profesionales,30,1,2,0,0,4400.14
+30,1532,62900,Vías públicas: Otras Inversiones,30,1,6,0,0,9274.54
+30,165,22100,Alumbrado público. Energía eléctrica casco urbano,30,1,2,150000,0,105454.39
+30,165,22112,"Alumbrado público. Suministros de material electrónico, eléctrico y de telecomunicaciones",30,1,2,30000,0,36336.57
+30,165,22799,Alumbrado público. Otros trabajos realizados por otras empresas y profesionales,30,1,2,30000,0,26269.17
+30,165,61907,Alumbrado público. Reposicion farolas,30,1,6,0,0,9604.3
+30,169,22799,Bienestar Comunitario.Otros trabajos realizados por otras empresas y profesionales,30,1,2,0,0,6500
+30,920,21200,Administración General..Edificios y Otras Construcciones,30,9,2,0,0,2761.92
+30,920,22100,Administración General. Energía eléctrica,30,9,2,25000,0,20865.99
+30,920,22101,Administración General. Agua,30,9,2,2000,0,2496.07
+31,1532,61100,Vías públicas. Inversiones de reposición Uso general,31,1,6,80000,0,0
+31,165,22100,Alumbrado público. Energía eléctrica Urbanizaciones,31,1,2,600000,0,270827.13
+31,440,22712,Administración general del transporte. Prestacion Servicio Transporte,31,4,2,70000,0,74985.42
+31,440,22713,Administración general del transporte. Transporte Escolar Urbanizaciones,31,4,2,60000,0,55000
+40,132,20300,"Seguridad y Orden Público. Maquinaria, instalaciones y Utillajes",40,1,2,5000,0,260.79
+40,132,20600,Seguridad y Orden Público. Equipos para procesos información,40,1,2,1500,0,3886.62
+40,132,21200,Seguridad y Orden Público. Edificios y Otras Construcciones,40,1,2,1000,0,10334.61
+40,132,21300,"Seguridad y Orden Público. Maquinaria, instalaciones y utillaje",40,1,2,2000,0,7.15
+40,132,21400,Seguridad y Orden Público. Material de Transporte,40,1,2,20000,0,13067.75
+40,132,21600,Seguridad y Orden Público. Material Informatico,40,1,2,500,0,0
+40,132,22000,Seguridad y Orden Público. Ordinario no inventariable,40,1,2,600,0,45.58
+40,132,22100,Seguridad y Orden Público. Energía eléctrica,40,1,2,8000,0,5814.92
+40,132,22101,Seguridad y Orden Público. Agua,40,1,2,500,0,0
+40,132,22103,Seguridad y Orden Público. Combustibles y carburantes,40,1,2,6000,0,659.53
+40,132,22104,Seguridad y Orden Público. Vestuario,40,1,2,35000,0,39171.17
+40,132,22108,Seguridad y Orden Público..Productos de limpieza y aseo,40,1,2,0,0,30.49
+40,132,22199,Seguridad y Orden Público. Otros suministros,40,1,2,3000,0,2089.17
+40,132,22200,Seguridad y Orden Público..Servicios de Telecomunicaciones,40,1,2,0,0,4430.21
+40,132,22400,Seguridad y Orden Público. Primas de Seguros,40,1,2,5000,0,3737.51
+40,132,22604,"Seguridad y Orden Público. Jurídicos, contenciosos",40,1,2,2000,0,0
+40,132,22700,Seguridad y Orden Público..Limpieza y Aseo,40,1,2,0,0,3831.59
+40,132,22714,Seguridad y Orden Público. Prestación Servicio Mantenimiento Maquinaria,40,1,2,0,0,1194.87
+40,132,22716,Seguridad y Orden Público. Prestacion Servicio Mantenimiento Aplicaciones Informaticas,40,1,2,1500,0,2078.25
+40,132,22717,Seguridad y Orden Público. Prestación servicios profesionales,40,1,2,1000,0,968
+40,132,23020,Seguridad y Orden Público. Dietas de personal no directivo,40,1,2,3000,0,938
+40,132,23120,Seguridad y Orden Público. Locomoción del personal no directivo,40,1,2,3000,0,180
+40,1532,21200,Vías públicas. Reparaciones,40,1,2,60000,0,32180.65
+40,1532,21300,"Vías públicas. Maquinaria, instalaciones y utillaje",40,1,2,6000,0,8930.07
+40,1532,21400,Vías públicas. Reparación Vehiculos,40,1,2,25000,0,33299.5
+40,1532,22103,Vías públicas. Combustibles y carburantes,40,1,2,15000,0,11569.21
+40,1532,22104,Vías públicas. Vestuario,40,1,2,8000,0,3928.78
+40,1532,22401,Vías públicas. Vehículos prima de seguros,40,1,2,15000,0,1276.12
+40,1532,22699,Vías públicas. Otros gastos diversos,40,1,2,15000,0,2936.71
+40,1532,22799,Vías públicas. Otros trabajos realizados por otras empresas y profesionales,40,1,2,20000,0,102506.73
+40,1532,60900,Vías públicas. Inversiones nuevas Vias Públicas,40,1,6,50000,0,23842.99
+40,1532,61100,Vías públicas. Inversiones de Reposición Uso general,40,1,6,40000,0,89499.38
+40,1532,62300,Vías públicas.Maquinaria y  utillaje,40,1,6,0,0,591.38
+40,1532,63500,Vías públicas. Mobiliario y Señalizaciones,40,1,6,25000,0,24799.05
+40,1621,21400,Recogida de residuos. Reparación vehiculos,40,1,2,40000,0,88645.31
+40,1621,22103,Recogida de residuos. Combustibles y carburantes,40,1,2,70000,0,53854.58
+40,1621,22104,Recogida de residuos. Vestuario,40,1,2,8000,0,1556.04
+40,1621,22401,Recogida de residuos. Vehículos prima de seguros,40,1,2,19000,0,12254.47
+40,1621,22699,Recogida de residuos. Otros gastos diversos,40,1,2,10000,0,326.68
+40,1621,22799,Recogida de residuos..Otros trabajos realizados por otras empresas y profesionales,40,1,2,0,0,3928.32
+40,1621,60902,Recogida de residuos. Obras de inversiones nuevas en infraestructuras,40,1,6,0,0,0
+40,1621,60905,Recogida de residuos. Adquisición de vehiculos,40,1,6,230000,0,0
+40,1621,62203,Recogida de residuos. Inversiones,40,1,6,0,0,4719
+40,1621,62400,Recogida de residuos. Elementos de Transporte,40,1,6,0,0,591725.8
+40,1621,63900,Recogida de residuos. Otras Inversiones Contenedores,40,1,6,0,0,0
+40,1622,22502,Gestión de residuos sólidos urbanos. Mancomunidad del Sur,40,1,2,40000,0,34796.93
+40,1623,22699,Tratamiento de residuos. Residuos Vegetales,40,1,2,0,0,77209
+40,1623,22799,Tratamiento de residuos. Trituración y eliminacion de residuos,40,1,2,47000,0,45818.3
+40,164,15100,Cementerio y servicios funerarios. Gratificaciones,40,1,1,3000,0,0
+40,164,21200,Cementerio y servicios funerarios. Edificios y Otras Construcciones,40,1,2,3000,0,0
+40,164,22799,Cementerio y servicios funerarios. Otros trabajos realizados por otras empresas y profesionales,40,1,2,15000,0,27273.4
+40,169,20300,"Bienestar Comunitario Maquinaria, Alquileres instalaciones y Utillajes",40,1,2,1000,0,0
+40,169,20400,Bienestar Comunitario. Arrendamiento Material de Transporte,40,1,2,18000,0,0
+40,169,22103,Bienestar Comunitario. Combustibles y carburantes,40,1,2,12000,0,9590.4
+40,169,22104,Bienestar Comunitario. Vestuario,40,1,2,15000,0,600
+40,169,22699,Bienestar Comunitario. Otros gastos diversos,40,1,2,12000,0,405.35
+40,169,22714,Bienestar Comunitario.Prestacion Servicio Mantenimiento Maquinaria,40,1,2,0,0,32460.67
+40,169,22718,"Bienestar Comunitario. Servicio de desratización, desinfección y desinfectación",40,1,2,6000,0,7982.65
+40,169,22799,Bienestar Comunitario.Otros trabajos realizados por otras empresas y profesionales,40,1,2,0,0,1000
+40,171,21200,Parques y jardines. Edificios y Otras Construcciones,40,1,2,20000,0,20499.6
+40,171,22101,Parques y jardines. Agua,40,1,2,35000,0,21455.48
+40,171,22109,Parques y jardines. Otros Suministros,40,1,2,25000,0,9617.45
+40,171,22699,Parques y jardines. Otros gastos diversos,40,1,2,0,0,30.29
+40,920,21200,Administración General.Edificios y Otras Construcciones,40,9,2,0,0,533.26
+40,920,22102,Administración General..Gas,40,9,2,0,0,917.39
+40,920,22108,Administración General. Productos de limpieza y aseo,40,9,2,15000,0,1830.21
+40,920,22200,Administración General..Servicios de Telecomunicaciones,40,9,2,0,0,8467.06
+40,920,22700,Administración General..Limpieza y Aseo,40,9,2,0,0,8667.39
+40,920,22701,Administración General. Seguridad,40,9,2,15000,0,7043.42
+40,920,22714,Administración General. Prestacion Servicio Mantenimiento Maquinaria,40,9,2,11000,0,9079.62
+40,920,22799,Administración General..Otros trabajos realizados por otras empresas y profesionales,40,9,2,0,0,4418.43
+50,321,22700,Creación de Centros docentes de enseñanza preescolar y primaria. Limpieza y Aseo,50,3,2,25000,0,38931.63
+50,323,21200,Funcionamiento de centros docentes. Edificios y Otras Construcciones,50,3,2,15000,0,21839.83
+50,323,21300,"Funcionamiento de centros docentes. Maquinaria, instalaciones y utillaje",50,3,2,6000,0,729.87
+50,323,22100,Funcionamiento de centros docentes. Energía eléctrica,50,3,2,20000,0,11753.68
+50,323,22101,Funcionamiento de centros docentes. Agua,50,3,2,800,0,3477.05
+50,323,22102,Funcionamiento de centros docentes..Gas,50,3,2,0,0,13100.98
+50,323,22103,Funcionamiento de centros docentes. Combustibles y carburantes,50,3,2,6000,0,3697.36
+50,323,22104,Funcionamiento de centros docentes. Vestuario,50,3,2,900,0,519.45
+50,323,22108,Funcionamiento de centros docentes. Productos de limpieza y aseo,50,3,2,5000,0,3204.71
+50,323,22615,Funcionamiento de centros docentes. Actividades Extraescolares,50,3,2,12000,0,2622
+50,323,22699,Funcionamiento de centros docentes. Otros gastos diversos,50,3,2,3000,0,27187.65
+50,323,47200,Funcionamiento de centros docentes. Convenio escuela infantil,50,3,4,145000,0,145000
+50,326,22000,Servicios complementarios de educación. Ordinario no inventariable,50,3,2,0,0,12.75
+50,326,22799,Servicios complementarios de educación.Prestación de servicios,50,3,2,0,0,11894.5
+50,330,20600,Administración General de Cultura. Equipos para procesos información,50,3,2,5000,0,3745.05
+50,330,20800,Administración General de Cultura..Arrendamiento Otro inmovilizado,50,3,2,0,0,9000
+50,330,21200,Administración General de Cultura. Edificios y Otras Construcciones,50,3,2,20000,0,6891.03
+50,330,21300,"Administración General de Cultura. Maquinaria, instalaciones y utillaje",50,3,2,18000,0,3661.41
+50,330,21500,Administración General de Cultura. Mobiliario,50,3,2,500,0,0
+50,330,21600,Administración General de Cultura. Material Informatico,50,3,2,500,0,0
+50,330,22000,Administración General de Cultura. Ordinario no inventariable,50,3,2,2000,0,282.91
+50,330,22100,Administración General de Cultura. Energía eléctrica,50,3,2,40000,0,30142.59
+50,330,22101,Administración General de Cultura. Agua,50,3,2,2000,0,121.84
+50,330,22102,Administración General de Cultura. Gas,50,3,2,3000,0,733.06
+50,330,22104,Administración General de Cultura..Vestuario,50,3,2,0,0,300
+50,330,22108,Administración General de Cultura..Productos de limpieza y aseo,50,3,2,0,0,123.06
+50,330,22400,Administración General de Cultura. Primas de Seguros,50,3,2,3000,0,2848.98
+50,330,22601,Administración General de Cultura. Atenciones protocolarias y representativas,50,3,2,6000,0,2456.22
+50,330,22602,Administración General de Cultura. Publicidad y propaganda,50,3,2,3000,0,677.6
+50,330,22699,Administración General de Cultura. Otros gastos diversos,50,3,2,6000,0,2437.98
+50,330,22714,Administración General de Cultura..Prestacion Servicio Mantenimiento Maquinaria,50,3,2,0,0,1127.34
+50,330,22799,Administración General de Cultura..Otros trabajos realizados por otras empresas y profesionales,50,3,2,0,0,16836.86
+50,3321,20600,Bibliotecas públicas.Equipos para procesos información,50,3,2,0,0,249.12
+50,3321,21200,Bibliotecas públicas Edificios y Otras Construcciones,50,3,2,20000,0,4651.34
+50,3321,21500,Bibliotecas públicas.Mobiliario,50,3,2,0,0,150
+50,3321,22000,Bibliotecas públicas. Ordinario no inventariable,50,3,2,0,0,170.88
+50,3321,22001,"Bibliotecas públicas. Prensa, revistas, libros y otras publicaciones",50,3,2,3000,8780.57,8938.73
+50,3321,22100,Bibliotecas públicas. Energía eléctrica,50,3,2,50000,0,20600.16
+50,3321,22101,Bibliotecas públicas. Agua,50,3,2,2000,0,1760.27
+50,3321,22102,Bibliotecas públicas. Gas,50,3,2,25000,0,6369.48
+50,3321,22104,Bibliotecas públicas.Vestuario,50,3,2,0,0,300
+50,3321,22108,Bibliotecas públicas.Productos de limpieza y aseo,50,3,2,0,0,379.97
+50,3321,22602,Bibliotecas públicas. Publicidad y propaganda,50,3,2,2000,0,0
+50,3321,22610,Bibliotecas públicas. Actividades programadas,50,3,2,6000,0,1642.51
+50,3321,22714,Bibliotecas públicas. Prestacion Servicio Mantenimiento Maquinaria,50,3,2,3000,0,4222.42
+50,3321,22716,Bibliotecas públicas. Prestacion Servicio Mantenimiento Aplicaciones Informaticas,50,3,2,2000,0,1875.5
+50,333,22100,Equipamientos culturales y museos. Energía eléctrica,50,3,2,2500,0,164.97
+50,333,22610,Equipamientos culturales y museos. Actividades programadas,50,3,2,12000,0,23451.76
+50,333,22699,Equipamientos culturales y museos. Otros gastos diversos,50,3,2,3000,0,1449.67
+50,333,63204,Equipamientos culturales y museos.,50,3,6,0,0,9973.21
+50,334,22616,Promoción  cultural. Certamen de Teatro,50,3,2,0,3300,3300
+50,337,23120,Instalaciones de ocupación del tiempo libre. Locomocion del personal.,50,3,2,0,0,294.3
+50,338,22617,Fiestas populares y festejos. Festejos,50,3,2,10000,0,94705.37
+50,338,47900,Fiestas populares y festejos..Otras Subvenciones,50,3,4,0,0,78131.57
+60,135,22104,Protección civil. Vestuario,60,1,2,0,6989,10760.18
+60,135,22106,Protección civil. Productos farmacéuticos y material sanitario,60,1,2,0,4200,5340.79
+60,135,22699,Protección civil. Gastos,60,1,2,0,0,7903.47
+60,2311,21300,"Hogar Tercera Edad. Maquinaria, instalaciones y utillaje",60,2,2,3000,0,1746.9
+60,2311,22100,Hogar Tercera Edad. Energía eléctrica,60,2,2,4000,0,3468.67
+60,2311,22101,Hogar Tercera Edad. Agua,60,2,2,500,0,17.44
+60,2311,22103,Hogar Tercera Edad. Combustibles y carburantes,60,2,2,2500,0,588.75
+60,2311,22617,Hogar Tercera Edad. Festejos,60,2,2,2500,0,410
+60,2311,22699,Hogar Tercera Edad.Otros gastos diversos,60,2,2,0,0,458.23
+60,2311,22714,Hogar Tercera Edad.Prestacion Servicio Mantenimiento Maquinaria,60,2,2,0,0,1837.84
+60,2311,48900,Hogar Tercera Edad. Subvencion Hogar Tercera Edad,60,2,4,12000,0,12000
+60,2312,20200,Servicios Sociales. Arrendamiento de edificios,60,2,2,12000,0,15000
+60,2312,22610,Servicios Sociales: Actividades programadas,60,2,2,0,0,447.2
+60,2312,22614,Servicios Sociales. Programa Inmigración,60,2,2,3000,0,0
+60,2312,46300,Servicios Sociales. Mancomunidad Sierra Oeste,60,2,4,35000,0,50462.6
+60,2312,46301,Servicios Sociales. Teleasistencia,60,2,4,2000,0,1410.22
+60,2312,48000,Servicios Sociales. Atenciones beneficas y asistenciales,60,2,4,6000,0,5775.39
+60,2312,48904,Servicios Sociales. Subvenciones,60,2,4,30000,0,15000
+60,920,22102,Administración General..Gas,60,9,2,0,0,492.59
+60,920,22104,Administración General. Vestuario,60,9,2,500,0,600
+60,920,22706,Administración General. Estudios y trabajos técnicos,60,9,2,20000,0,0
+60,920,22710,Administración General. Prestacion de Servicios Medicos y Salud,60,9,2,12000,0,5758.79
+60,920,22712,Administración General. Prestación Sercivio Transporte,60,9,2,0,0,25586.79
+70,241,14300,Fomento del empleo. Otro Personal,70,2,1,50000,0,41107.95
+70,241,16000,Fomento del empleo. Seguridad Social,70,2,1,0,0,8050.64
+70,323,63205,Funcionamiento de centros docentes. Reparaciones Educacion,70,3,6,0,0,13767.38
+70,337,20600,Instalaciones de ocupación del tiempo libre. Equipos para procesos información,70,3,2,6000,0,500.34
+70,337,20800,Instalaciones de ocupación del tiempo libre..Arrendamiento Otro inmovilizado,70,3,2,0,0,1000
+70,337,21200,Instalaciones de ocupación del tiempo libre. Edificios y Otras Construcciones,70,3,2,15000,0,9527.9
+70,337,21300,"Instalaciones de ocupación del tiempo libre. Maquinaria, instalaciones y utillaje",70,3,2,18000,0,3921.36
+70,337,22000,Instalaciones de ocupación del tiempo libre. Ordinario no inventariable,70,3,2,6000,0,137.92
+70,337,22100,Instalaciones de ocupación del tiempo libre. Energía eléctrica,70,3,2,4000,0,2996.62
+70,337,22101,Instalaciones de ocupación del tiempo libre. Agua,70,3,2,600,0,529.59
+70,337,22103,Instalaciones de ocupación del tiempo libre. Combustibles y carburantes,70,3,2,2500,0,492.15
+70,337,22400,Instalaciones de ocupación del tiempo libre. Primas de Seguros,70,3,2,3000,0,5605
+70,337,22610,Instalaciones de ocupación del tiempo libre. Actividades programadas,70,3,2,80000,0,73694.9
+70,337,22714,Instalaciones de ocupación del tiempo libre. Prestacion Servicio Mantenimiento Maquinaria,70,3,2,4000,0,4739.53
+70,340,22699,Administración General de Deportes. Otros gastos diversos,70,3,2,0,0,1896.29
+70,340,22799,Administración General de Deportes..Otros trabajos realizados por otras empresas y profesionales,70,3,2,0,0,4543.55
+70,340,62900,Administración General de Deportes.Otras Inversiones,70,3,6,0,0,665.5
+70,342,22100,Instalaciones deportivas. Energía eléctrica,70,3,2,25000,0,22132.73
+70,342,22101,Instalaciones deportivas. Agua,70,3,2,25000,0,41174.05
+70,342,22102,Instalaciones deportivas. Gas,70,3,2,50000,0,56054.43
+70,342,22103,Instalaciones deportivas. Combustibles y carburantes,70,3,2,6000,0,835
+70,342,22699,Instalaciones deportivas..Otros gastos diversos,70,3,2,0,0,3040.23
+70,342,22714,Instalaciones deportivas..Prestacion Servicio Mantenimiento Maquinaria,70,3,2,0,0,11858.1
+70,342,63900,Instalaciones deportivas. Otras inversiones,70,3,6,20000,0,363
+70,920,22712,Administración General..Prestacion Servicio Transporte,70,9,2,0,0,2462.14
+70,920,60904,Administración General. Presupuesto Participativo,70,9,6,100000,0,0
+70,924,22001,"Participación ciudadana. Prensa, revistas, libros y otras publicaciones",70,9,2,13000,0,0
+70,924,22602,Participación ciudadana. Publicidad y propaganda,70,9,2,3000,0,3140
+70,924,22699,Participación ciudadana. Otros gastos diversos,70,9,2,3000,0,0
+80,338,22617,Fiestas populares y festejos. Festejos,80,3,2,140000,0,142611.21
+80,338,22619,Fiestas populares y festejos. Festejos Taurinos,80,3,2,83333,0,3081.84
+90,169,22799,Bienestar Comunitario.Otros trabajos realizados por otras empresas y profesionales,90,1,2,0,0,521
+90,172,60902,Protección y mejora del medio ambiente. Otras inversiones nuevas en infraestructuras y bienes destinados al uso general,90,1,6,0,0,0
+90,172,62302,Protección y mejora del medio ambiente.Vehiculos e instalaciones técnicas,90,1,6,0,0,21079.27
+90,1721,21000,Promoción y Protección del medio ambiente. Conservacion de caminos,90,1,2,5000,0,8121.52
+90,1721,22199,Promoción y Protección del medio ambiente,90,1,2,0,0,1531.4
+90,1721,22610,Promoción y Protección del medio ambiente. Actividades programadas,90,1,2,3000,0,2125.41
+90,1721,22699,Promoción y Protección del medio ambiente.Otros gastos diversos,90,1,2,0,0,11.66
+90,1721,22717,Promoción y Protección del medio ambiente. Prestación servicios profesionales linea verde,90,1,2,2000,0,3276.8
+90,1721,22799,Promoción y Protección del medio ambiente. Otros trabajos realizados por otras empresas y profesionales,90,1,2,20000,0,14337.24
+90,1721,48002,"Promoción y Protección del medio ambiente, Becas",90,1,4,2000,0,0
+90,1721,60001,Promoción y Protección del medio ambiente. Mejora de Caminos vecinales,90,1,6,0,0,70223.31
+90,1721,62203,Promoción y Protección del medio ambiente. Punto Limpio,90,1,6,30000,0,1655.18
+#,,,,,,,,,
+#,,,T O T A L E S,,,,10078038.1,23269.57,9120064.51
