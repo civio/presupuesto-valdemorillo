@@ -145,10 +145,10 @@ OVERVIEW_INCOME_NODES = [
                             'label': 'Impuesto sobre vehículos de tracción mecánica',
                             'link_id': '11'
                           },
-                          '30', '42', '45', '34'
+                          '30', '42', '45'
                         ]
 
-OVERVIEW_EXPENSE_NODES = ['34', '13', '33', '16', '15', '92']
+OVERVIEW_EXPENSE_NODES = ['32', '13', '33', '16', '15', '92']
 
 # How much padding between Sankey nodes. Default: 10 (Optional)
 # Note: higher values will result in a more 'curvy accordion'.
